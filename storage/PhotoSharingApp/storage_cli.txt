@@ -1,0 +1,13 @@
+az storage account create \
+        --resource-group learn-d4bc4459-ca2d-4a1d-8634-55720edc9e5b \
+        --kind StorageV2 \
+        --sku Standard_LRS \
+        --access-tier Cool \
+        --name storagefnacc
+
+DefaultEndpointsProtocol=https;AccountName=storagefnacc;AccountKey=wnLsIN/JdEUa6mJvDX/FwgEnHl+umNPXHTBEDMU3rhFvSp3zIzYrkuk/vyYyRnbK1h3HS1T37XBo01qkiQNvpA==;EndpointSuffix=core.windows.net
+
+az storage account show-connection-string \
+    --resource-group learn-d4bc4459-ca2d-4a1d-8634-55720edc9e5b \
+    --name storagefnacc \
+    --query connectionString
