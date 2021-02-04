@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Ferga\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Ferga\\.nuget\\packages"
+    ]
+  }
+}
