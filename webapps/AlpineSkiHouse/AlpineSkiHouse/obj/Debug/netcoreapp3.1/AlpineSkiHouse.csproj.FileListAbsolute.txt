@@ -35,3 +35,8 @@ C:\git\azure\webapps\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\netcoreapp3.1\Alpin
 C:\git\azure\webapps\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\netcoreapp3.1\AlpineSkiHouse.genruntimeconfig.cache
 C:\git\azure\webapps\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\netcoreapp3.1\AlpineSkiHouse.csproj.CopyComplete
 C:\git\azure\webapps\AlpineSkiHouse\AlpineSkiHouse\obj\Debug\netcoreapp3.1\scopedcss\bundle\AlpineSkiHouse.styles.css
+C:\git\azure\webapps\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\netcoreapp3.1\out\web.config
+C:\git\azure\webapps\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\netcoreapp3.1\out\AlpineSkiHouse.deps.json
+C:\git\azure\webapps\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\netcoreapp3.1\out\AlpineSkiHouse.runtimeconfig.json
+C:\git\azure\webapps\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\netcoreapp3.1\out\appsettings.Development.json
+C:\git\azure\webapps\AlpineSkiHouse\AlpineSkiHouse\bin\Debug\netcoreapp3.1\out\appsettings.json
