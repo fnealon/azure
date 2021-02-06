@@ -1,0 +1,15 @@
+0penSays8e!
+admin@fergalnealonbnymellon.onmicrosoft.com
+
+PS C:\git\docker> az ad sp create-for-rbac -n fnealonsp
+Changing "fnealonsp" to a valid URI of "http://fnealonsp", which is the required format used for service principal names
+Creating a role assignment under the scope of "/subscriptions/24c7c791-b4f6-4c6b-a4fe-cc97e82ca1c6"
+  Retrying role assignment creation: 1/36
+  Retrying role assignment creation: 2/36
+{
+  "appId": "b71583a1-4bfb-4875-ba94-608dd1805d4a",
+  "displayName": "fnealonsp",
+  "name": "http://fnealonsp",
+  "password": "N2oC1YIzOnc2VcDpxdDT~E8lIg2mNgetEF",
+  "tenant": "190626e6-9800-4b20-a963-5268f01745b1"
+}

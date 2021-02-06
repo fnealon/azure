@@ -1,0 +1,27 @@
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\appsettings.json
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\Properties\launchSettings.json
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\nealon - Web Deploy\profile.arm.json
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\AnApi.exe
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\AnApi.deps.json
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\AnApi.runtimeconfig.json
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\AnApi.runtimeconfig.dev.json
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\AnApi.dll
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\AnApi.pdb
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\git\azure\apim\AnApi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.AssemblyInfoInputs.cache
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.AssemblyInfo.cs
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.csproj.CoreCompileInputs.cache
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.MvcApplicationPartsAssemblyInfo.cs
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.MvcApplicationPartsAssemblyInfo.cache
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.RazorTargetAssemblyInfo.cache
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.csproj.CopyComplete
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\staticwebassets\AnApi.StaticWebAssets.Manifest.cache
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\staticwebassets\AnApi.StaticWebAssets.xml
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.dll
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.pdb
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.genruntimeconfig.cache
+C:\git\azure\apim\AnApi\obj\Release\netcoreapp3.1\AnApi.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\bin\Debug\QueueForm.exe.config
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\bin\Debug\QueueForm.exe
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\bin\Debug\QueueForm.pdb
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\bin\Debug\Microsoft.ServiceBus.dll
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\bin\Debug\Microsoft.ServiceBus.xml
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\obj\Debug\ServiceBusQueueApp.csprojAssemblyReference.cache
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\obj\Debug\QueueForm.Form1.resources
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\obj\Debug\QueueForm.Properties.Resources.resources
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\obj\Debug\ServiceBusQueueApp.csproj.GenerateResource.cache
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\obj\Debug\ServiceBusQueueApp.csproj.CoreCompileInputs.cache
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\obj\Debug\ServiceBusQueueApp.csproj.CopyComplete
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\obj\Debug\QueueForm.exe
+C:\git\azure\ServiceBusQueueApp\ServiceBusQueueApp\obj\Debug\QueueForm.pdb
