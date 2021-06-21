@@ -1,0 +1,6 @@
+{
+	"name": "Copy from SQL to Blob as Json",
+	"properties": {
+		"annotations": []
+	}
+}
